@@ -1,6 +1,6 @@
 # Course: Mastering Concurrency in Java with Virtual Threads
 
-Dive deep into the intricacies of concurrency & learn how to make your Java applications run smoother and faster using simple and effective concurrency techniques. From the basics to hands-on projects, this course equips you with the skills to revolutionize your approach to programming.
+Welcome to the course on mastering concurrency in Java with virtual threads, instructed by Professor Vinoth Selvaraj. This course is designed for Java developers looking to enhance their skills and optimize the performance of their applications.
 
 ## Course Highlights:
 
@@ -18,4 +18,4 @@ Dive deep into the intricacies of concurrency & learn how to make your Java appl
 
 - **Migration Made Easy:** Conclude the course with a practical migration guide to transition your existing applications to Java Virtual Threads effortlessly. Get ready for a future where your programs effortlessly combine concurrency and scalability.
 
-Unlock the full potential of Java Virtual Threads and elevate your programming skills. Enroll now to reshape the way you approach scalability and performance in Java applications!
+Unlock the full potential of Java Virtual Threads and elevate your programming skills with [this course on Udemy](https://www.udemy.com/user/vinoth-selvaraj/). Enroll now to reshape the way you approach scalability and performance in Java applications!
