@@ -1,4 +1,4 @@
-package org.example;
+package br.com.bytebuilder;
 
 public class Main {
     public static void main(String[] args) {
